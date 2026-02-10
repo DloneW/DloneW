@@ -20,7 +20,7 @@ strong fundamentals through real, hands-on projects.
 
 ### Long-Term Goal
 To become a well-rounded full-stack developer capable of
-building complete, production-ready applications.## Hi there 👋
+building complete, production-ready applications.
 
 <!--
 **DloneW/DloneW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
