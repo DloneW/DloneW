@@ -22,6 +22,9 @@ strong fundamentals through real, hands-on projects.
 To become a well-rounded full-stack developer capable of
 building complete, production-ready applications.
 
+### Short-Term Goal
+To be able to use frameworks to enhance smooth UI/UX
+
 <!--
 **DloneW/DloneW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
