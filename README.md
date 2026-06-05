@@ -55,7 +55,7 @@ I don't treat security as an afterthought. Every project I build is designed wit
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faridat_Adesanya-0a66c2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
 [![Portfolio](https://img.shields.io/badge/Portfolio-faridat.vercel.app-0a5c4a?style=flat)](https://faridat.vercel.app)
-[![Email](https://img.shields.io/badge/Email-your@email.com-333?style=flat&logo=gmail)](mailto:faridatadesanya25@gmail.com)
+[![Email](https://img.shields.io/badge/Email-faridatadesanya25@gmail.com-333?style=flat&logo=gmail)](mailto:faridatadesanya25@gmail.com)
 
 ---
 
